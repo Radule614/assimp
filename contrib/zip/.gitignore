@@ -1,9 +1,6 @@
 /build/
 /test/build/
 /xcodeproj/
-/infer-out/
-.vscode/
-Testing/
 
 # Object files
 *.o
@@ -39,22 +36,3 @@ Testing/
 # Temporary
 *.swp
 .DS_Store
-
-# CMake
-CMakeScripts
-*.cmake
-
-# Xcode
-*.build
-*.xcodeproj
-zip.sln
-zip.vcxproj.filters
-zip.vcxproj
-ALL_BUILD.vcxproj.filters
-ALL_BUILD.vcxproj
-CMakeFiles/
-zip.dir/
-test/test.exe.vcxproj.filters
-test/test.exe.vcxproj
-test/test.exe.dir/
-
